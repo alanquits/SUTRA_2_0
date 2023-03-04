@@ -1,0 +1,12 @@
+##  SUTRA INITIAL CONDITIONS FILE
+##
+##  DATASET 1:  Simulation Starting Time
+ 0.0000000000000D+00
+##
+##  DATASET 2:  Initial Pressure Values at Nodes
+'UNIFORM'
+ 0.0000000000000D+00
+##
+##  DATASET 3:  Initial Temperature or Concentration Values at Nodes
+'UNIFORM'
+ 0.0000000000000D+00

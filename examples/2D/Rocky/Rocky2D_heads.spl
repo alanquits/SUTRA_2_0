@@ -1,0 +1,40 @@
+SutraPlot Version 2D3D.1
+Rocky2D - hydraulic heads                                                       
+2 << SUTRA 2D simulation >>
+1 << Contour layout file >>
+#
+#SUTRA main input file
+c:\SutraSuite\SUTRA_2D3D_1\examples\2D\Rocky                           
+Rocky2D.inp                                                                     
+#SUTRA nodewise results file
+c:\SutraSuite\SUTRA_2D3D_1\examples\2D\Rocky                           
+Rocky2D.nod                                                                    
+#Time step number index
+     2
+#Output variable
+     3
+#Mesh boundary visibility flag
+      1.000          1.000    
+#Default/user selected contour level flag
+     2
+#Data scaling flag
+     0
+#Scaling factors
+      1.000          1.000    
+#Contour level - Upper, lower, interval
+      270.0    
+      10.00    
+      10.00    
+#Number of contour levels
+    27
+#Label flag
+     0
+#Number of decimal places in labels
+     0
+#Label spacing
+      325.0    
+#Axis and frame visibility flag
+     2
+#Mesh boundary visibility flag
+     1
+### End-of-file

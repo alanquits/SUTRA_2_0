@@ -1,0 +1,9 @@
+'INP'   50   'BF3D_sprep_with_solute.inp'
+'ICS'   55   'BF3D_sprep.ics'
+'LST'   60   'BF3D_sprep.lst'
+'RST'   66   'BF3D_sprep.rst'
+'NOD'   70   'BF3D_sprep.nod'
+'ELE'   80   'BF3D_sprep.ele'
+'OBS'   90   'BF3D_sprep.obs'
+'SMY'   30   'BF3D_sprep.smy'
+

@@ -1,0 +1,44 @@
+SutraPlot Version 2D3D.1
+Island2D - Vectors - log scaling                                                
+2 << SUTRA 2D simulation >>
+3 << Vector layout file >>
+#
+#SUTRA main input file
+c:\SutraSuite\SUTRA_2D3D_1\examples\2D\Island2D                        
+Island2D.inp                                                                    
+#SUTRA elementwise results file
+c:\SutraSuite\SUTRA_2D3D_1\examples\2D\Island2D                    
+Island2D.ele                                                                                    
+#Time Step number index
+     2
+#Coordinate scaling factors
+      1.000          4.000    
+#Direction scaling flag
+     1
+#Log/Linear magnitude scaling flag
+     2
+#Global/Local maximum flag
+     2
+#Arrowhead size adjustment
+     0.7500    
+#Arrowhead scaling flag
+    1    7
+#Number of vectors in selected region
+  1000
+#Number of vectors after thinning
+  1000
+#Plot every iskipth vector
+     1
+#Cutoff for dropping vectors < vlscl% of max
+      0.000    
+#Cutoff for dropping vectors > vuscl% of max
+      100.0    
+#Plotted length adjustment
+     0.5000        8
+#Reference vector flag
+     1
+#User selected reference vector
+     0.1000E-04
+#Axis and frame visibility flag
+     2
+### End-of-file

@@ -1,0 +1,8 @@
+INP    50 Rocky_irregular.inp
+ICS    55 Rocky_irregular.ics
+LST    60 Rocky_irregular.lst
+RST    66 Rocky_irregular.rst
+NOD    30 Rocky_irregular.nod
+ELE    40 Rocky_irregular.ele
+OBS    70 Rocky_irregular.obs
+SMY    80 Rocky_irregular.smy

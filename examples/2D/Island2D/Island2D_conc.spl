@@ -1,0 +1,40 @@
+SutraPlot Version 2D3D.1
+Island2D - Percent seawater concentration                                       
+2 << SUTRA 2D simulation >>
+1 << Contour layout file >>
+#
+#SUTRA main input file
+c:\SutraSuite\SUTRA_2D3D_1\examples\2D\Island2D                        
+Island2D.inp                                                                    
+#SUTRA nodewise results file
+c:\SutraSuite\SUTRA_2D3D_1\examples\2D\Island2D                        
+Island2D.nod                                                                    
+#Time step number index
+     3
+#Output variable
+     1
+#Mesh boundary visibility flag
+      1.000          4.000    
+#Default/user selected contour level flag
+     2
+#Data scaling flag
+     1
+#Scaling factors
+     0.3570E-01      100.0    
+#Contour level - Upper, lower, interval
+      90.00    
+      10.00    
+      20.00    
+#Number of contour levels
+     5
+#Label flag
+     0
+#Number of decimal places in labels
+     0
+#Label spacing
+      323.0    
+#Axis and frame visibility flag
+     2
+#Mesh boundary visibility flag
+     1
+### End-of-file

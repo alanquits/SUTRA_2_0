@@ -1,0 +1,33 @@
+
+ +--------+--------------------------------------+--------+
+ | \\  // |--------------------------------------| \\  // |
+ |  \\//  |                                      |  \\//  |
+ |   //   |              FILE ERROR              |   //   |
+ |  //\\  |                                      |  //\\  |
+ | //  \\ |--------------------------------------| //  \\ |
+ +--------+--------------------------------------+--------+
+
+ DESCRIPTION
+
+    Error code:  FIL-5                                   
+    File:        SUTRA.FIL                               
+
+    Invalid file type: SMY                                                
+
+ EXPLANATION
+
+    Valid file types are:                                                 
+       INP (".inp" input file)                                            
+       ICS (".ics" input file)                                            
+       LOG (".log" output file)                                           
+       LST (".lst" output file)                                           
+       RST (".rst" output file)                                           
+       NOD (".nod" output file)                                           
+       ELE (".ele" output file)                                           
+       OBS (".obs" output file)                                           
+
+ +--------------------------------------------------------+
+ |                                                        |
+ |   ********   RUN TERMINATED DUE TO ERROR   *********   |
+ |                                                        |
+ +--------------------------------------------------------+

@@ -1,0 +1,13 @@
+SutraPlot Version 2D3D.1
+Island2D - Mesh                                                                 
+2 << SUTRA 2D simulation >>
+4 << 3D Mesh layout file >>
+#
+#SUTRA main input file
+c:\SutraSuite\SUTRA_2D3D_1\examples\2D\Island2D                        
+Island2D.inp                                                                    
+#Coordinate scaling factors
+      1.000          4.000    
+#Axis label flag
+     1
+### End-of-file

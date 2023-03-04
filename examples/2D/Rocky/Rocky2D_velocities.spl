@@ -1,0 +1,44 @@
+SutraPlot Version 2D3D.1
+Rocky2D - Vectors                                                               
+2 << SUTRA 2D simulation >>
+3 << Vector layout file >>
+#
+#SUTRA main input file
+c:\SutraSuite\SUTRA_2D3D_1\examples\2D\Rocky                           
+Rocky2D.inp                                                                     
+#SUTRA elementwise results file
+c:\SutraSuite\SUTRA_2D3D_1\examples\2D\Rocky                           
+Rocky2D.ele                                                                     
+#Time Step number index
+     1
+#Coordinate scaling factors
+      1.000          1.000    
+#Direction scaling flag
+     1
+#Log/Linear magnitude scaling flag
+     1
+#Global/Local maximum flag
+     2
+#Arrowhead size adjustment
+      1.000    
+#Arrowhead scaling flag
+    2    6
+#Number of vectors in selected region
+   320
+#Number of vectors after thinning
+     0
+#Plot every iskipth vector
+     1
+#Cutoff for dropping vectors < vlscl% of max
+      0.000    
+#Cutoff for dropping vectors > vuscl% of max
+      100.0    
+#Plotted length adjustment
+      1.000        6
+#Reference vector flag
+     0
+#User selected reference vector
+      0.000    
+#Axis and frame visibility flag
+     2
+### End-of-file

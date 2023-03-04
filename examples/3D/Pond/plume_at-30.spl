@@ -1,0 +1,46 @@
+SutraPlot Version 2D3D.1
+Pond - Concentrations after 16 time steps at z=-30.m                            
+3 << SUTRA 3D simulation >>
+1 << Contour layout file >>
+#
+#SUTRA main input file
+c:\SutraSuite\SUTRA_2D3D_1\examples\3D\Pond                        
+Pond3D.inp                                                                        
+#SUTRA nodewise results file
+c:\SutraSuite\SUTRA_2D3D_1\examples\3D\Pond                        
+Pond3D.nod                                                                        
+#Time step number index
+    17
+#Output variable
+     1
+#Slice selection mode
+     2
+#Orthogonal slice coordinate plane
+     1
+#Orthogonal slice distance in 3rd dimension
+     -30.00    
+#Mesh boundary visibility flag
+      1.000          1.000          1.000    
+#Default/user selected contour level flag
+     2
+#Data scaling flag
+     0
+#Scaling factors
+      1.000          1.000    
+#Contour level - Upper, lower, interval
+      95.00    
+      5.000    
+      10.00    
+#Number of contour levels
+    10
+#Label flag
+     0
+#Number of decimal places in labels
+     0
+#Label spacing
+      332.5    
+#Axis and frame visibility flag
+     2
+#Mesh boundary visibility flag
+     1
+### End-of-file

@@ -1,0 +1,107 @@
+
+
+ FILENAMES
+ ---------
+
+    SutraPrep input file:   BF3D_sprep.prp                          
+
+    SUTRA ".inp" file:      BF3D_sprep.inp                          
+    SUTRA ".ics" file:      BF3D_sprep.ics                          
+    VRML mesh plot file:    BF3D_sprep.wrl                          
+
+    Existing ".inp" file:   BF3D.inp                                
+
+
+ DISCRETIZATION
+ --------------
+                           I       J       K      total
+                        ------  ------  ------  ---------
+    number of blocks         1       1       1          1
+    number of corners        2       2       2          8
+
+    number of elements      40      30      20      24000
+    number of nodes         41      31      21      26691
+
+
+ NODE NUMBERING SCHEME
+ ---------------------
+
+    Node #1 located at block corner (  0,  1,  1).
+
+    1st numbering direction: K
+    2nd numbering direction: J
+    3rd numbering direction: I
+
+
+ COORDINATE RANGES
+ -----------------
+
+    Values listed below have been multiplied by their
+    respective scale factors.
+
+    coord.         min             max
+    ------    --------------  --------------
+    X          0.0000000D+00   2.0000000D+02
+    Y          0.0000000D+00   3.0000000D+01
+    Z          0.0000000D+00   2.1000000D+01
+
+
+ PHYSICAL PROPERTY RANGES
+ ------------------------
+
+    Values listed below have been multiplied by their
+    respective scale factors.
+
+    property       min             max
+    --------  --------------  --------------
+    POR        3.5000000D-01   3.5000000D-01
+
+    PMAX       1.1600000D-05   1.1600000D-05
+    PMID       1.1600000D-05   1.1600000D-05
+    PMIN       1.1600000D-05   1.1600000D-05
+
+    ANGLE1     0.0000000D+00   0.0000000D+00
+    ANGLE2     0.0000000D+00   0.0000000D+00
+    ANGLE3     0.0000000D+00   0.0000000D+00
+
+    ALMAX      3.0000000D+00   3.0000000D+00
+    ALMID      3.0000000D+00   3.0000000D+00
+    ALMIN      3.0000000D+00   3.0000000D+00
+
+    ATMAX      1.0000000D-01   1.0000000D-01
+    ATMID      1.0000000D-01   1.0000000D-01
+    ATMIN      1.0000000D-01   1.0000000D-01
+
+
+ BOUNDARY CONDITIONS
+ -------------------
+
+    The following symbols are used below:
+    U = UNIFORM,  L = LINEAR,  B = BCTIME,  - = not specified.
+
+         type         I=0  I=Imax   J=0  J=Jmax   K=0  K=Kmax
+    ---------------  ----- ------  ----- ------  ----- ------
+    FLUID              -      -      -      -      -      U
+    SOLUTE / ENERGY    -      -      -      -      -      -
+    PRESSURE           -      L      -      -      -      -
+    CONC. / TEMP.      -      -      -      -      -      -
+
+
+ INITIAL CONDITIONS
+ ------------------
+
+    time         0.0000000D+00
+    pressure     0.0000000D+00
+    conc/temp    0.0000000D+00
+
+
+ VRML MESH PLOT
+ --------------
+
+    Plot BLOCKS only.
+
+    X-exaggeration    1.0000000D+00
+    Y-exaggeration    1.0000000D+00
+    Z-exaggeration    1.0000000D+00
+
+

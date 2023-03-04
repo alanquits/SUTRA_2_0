@@ -1,0 +1,26 @@
+
+          =====================================================
+
+                          S    U    T    R    A
+
+                             Version 2D3D.1  
+
+          =====================================================
+
+ SUTRA Model created using Argus ONE and Sutra GUI
+ U.S. Geological Survey example parameter values
+ 
+ TIME STEP     0 OF     1
+    NON-LINEARITY ITERATION     1
+       Starting P-solution using DIRECT solver ...
+       Maximum changes in P, U:  7.7E-05,  0.0E+00
+    NON-LINEARITY ITERATION     2
+       Starting P-solution using DIRECT solver ...
+       Maximum changes in P, U:  0.0E+00,  0.0E+00
+ TIME STEP     1 OF     1
+    NON-LINEARITY ITERATION     1
+       Starting U-solution using DIRECT solver ...
+       Maximum changes in P, U:  0.0E+00,  2.3E-07
+
+ S I M U L A T I O N   E N D E D
+
